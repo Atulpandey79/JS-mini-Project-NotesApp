@@ -12,7 +12,7 @@ The project setup is really simple. Because I only wanted to use JavaScript with
 - Bootstrap is bundled with many components that can be used to provide good user experience and user interactions in a web page like cards, navigation bars, dropdowns, icons, buttons, forms and also sizing options for different DOM elements. In this project, I used bootstrap components for making the front end of website. Then after desiging the website, I added logic into it using pure javaScript.
 
 ## DEMO
-Here is the hosted and working demo of the Project --> 
+Here is the hosted and working demo of the Project --> https://notes-app123.netlify.app/
 
 ## Tech Stacks Used
 - HTML
